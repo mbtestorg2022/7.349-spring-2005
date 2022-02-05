@@ -25,12 +25,277 @@ Student Work
 
 The example student work in the table below is included courtesy of the students named and used with their permission.
 
-| STUDENTs | WRITING ASSIGNMENT 1 | WRITING ASSIGNMENT 2 | oral presentations |
-| --- | --- | --- | --- |
-|  {{< br >}}{{< br >}} Anonymous {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assgn1lh)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Bioluminescence: Science and Engineering Applications_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assgn2lh)) {{< br >}}{{< br >}} Engebrecht, J., K. Nealson, and M. Silverman. "Bacterial bioluminescence: isolation and genetic analysis of functions from Vibrio fischeri." _Cell_ 32, no. 3 (March 1983): 773-81. {{< br >}}{{< br >}} Weiss, Ron, and Thomas F. Knight. "Engineered Communications for Microbial Robotics." In _DNA 2000, Lecture Notes in Computer Science_. (DNA Computing: 6th International Workshop on DNA-Based Computers, Leiden, The Netherlands, June 13-17, 2000.) Edited by A. Condon. Vol. 2054. Berlin, Germany: Springer-Verlag GmbH, 2001, pp. 1-16. ISSN: 03029743. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Yan, H., S. H. Park, G. Finkelstein, J. H. Reif, and T. H. LaBean. "DNA-templated self-assembly of protein arrays and highly conductive nanowires." _Science_ 301, no. 5641 (September 26, 2003): 1882-4. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} Anonymous {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assgn1_as)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _The Development of Genetic Circuitry_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assgn2_as)) {{< br >}}{{< br >}} Engebrecht, J., K. Nealson, and M. Silverman. "Bacterial bioluminescence: isolation and genetic analysis of functions from Vibrio fischeri." _Cell_ 32, no 3 (March 1983): 773-81. {{< br >}}{{< br >}} Weiss, Ron, and Thomas F. Knight. "Engineered Communications for Microbial Robotics." In _DNA 2000, Lecture Notes in Computer Science_. (DNA Computing: 6th International Workshop on DNA-Based Computers, Leiden, The Netherlands, June 13-17, 2000.) Edited by A. Condon. Vol. 2054. Berlin, Germany: Springer-Verlag GmbH, 2001, pp. 1-16. ISSN: 03029743. {{< br >}}{{< br >}} Yokobayashi, Y., R. Weiss R, and A. H. Arnold. "Directed Evolution of a Genetic Circuit." _Proc Natl Acad Sci U.S.A._ 99, no. 26 (December 2002): 16587-91. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Ramachandra, M., A. Rahman, A. Zou, M. Vaillancourt, J. A. Howe, D. Antelman, B. Sugarman, G. W. Demers, H. Engler, D. Johnson, and P. Shabram. "Re-engineering adenovirus regulatory pathways to enhance oncolytic specificity and efficacy." _Nat Biotechnol_ 19, no. 11 (November 2001): 1035-41. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} Anonymous {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/student_a_1)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Polymerase Chain Reaction_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1 MB]({{< baseurl >}}/resources/student_a_2)) {{< br >}}{{< br >}} Augusten, L., R. A. Bowen, and M. Rouge, Contributors. "Thermostable DNA Polymerases." In _Biotechnology and Genetic Engineering_. Colorado State University: Colorado, December 1999. {{< br >}}{{< br >}} Don, R. H., P. T. Cox, B. J. Wainright, K. Baker, and J. S. Mattick. "Touchdown PCR to circimvent spurious priming during gene amplification." _Nucleic Acid Research_ 19, no. 14 (April 1999): 4008. {{< br >}}{{< br >}} "Polymerase Chain Reaction." _Wikipedia_ (April 2005). {{< br >}}{{< br >}} "Taq DNA Polymerase with ThermoPol Buffer." New England Biolabs, Inc. {{< br >}}{{< br >}} "Touchdown PCR." _Wikipedia_ (March 2005). {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Basu, S., Y. Gerchman, C. H. Collins, F. H. Arnold, and R. Weiss. "A synthetic multicellular system for programmed pattern formation." _Nature_ 434, no. 7037 (April 28, 2005): 1130-4. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} Anonymous {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/student_b_1)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} The Magic of Magnetism (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/student_b_2)) {{< br >}}{{< br >}} Adleman, L. M. "Molecular computation of solutions to combinatorial problems." _Science_ 266, no. 5187 (November 11, 1994): 1021-4. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/student_b_3)) {{< br >}}{{< br >}} Yu, L. S., J. Uknalis, and S. I. Tu. "Immunomagnetic separation methods for the isolation of Campylobacter jejuni from ground poultry meats." _J Immunol Methods_ 256, no. 1-2 (October 1, 2001): 11-8. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} Mark Garcia {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assgn1markgarcia)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assgn2markgarcia)) {{< br >}}{{< br >}} Weiss, Ron, and Thomas F. Knight. "Engineered Communications for Microbial Robotics." In _DNA 2000, Lecture Notes in Computer Science._ (DNA Computing: 6th International Workshop on DNA-Based Computers, Leiden, The Netherlands, June 13-17, 2000.) Edited by A. Condon. Vol. 2054. Berlin, Germany: Springer-Verlag GmbH, 2001, pp. 1-16. ISSN: 03029743. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/presmarkgarcia)) {{< br >}}{{< br >}} Rothemund, P. W. "Using lateral capillary forces to compute by self-assembly." _Proc Natl Acad Sci U.S.A._ 3, no. 97 (February 1, 2000): 984-9. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} Erin Mathewson {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assgn1_erin)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Formation of DNA Nanotubes to Produce Nanowires_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assgn2_erin)) {{< br >}}{{< br >}} Liu, D., S. H. Park, J. H. Reif, and T. H. LaBean. "DNA nanotubes self-assembled from triple-crossover tiles as templates for conductive nanowires." _Proc Natl Acad Sci U.S.A_. 101, no 6 (January 6, 2004): 717-722. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/presemathewson)) {{< br >}}{{< br >}} Kobayashi, H., M. Kaern, M. Araki, K. Chung, T. S. Gardner, C. R. Cantor, and J. J. Collins. "Programmable cells: interfacing natural and engineered gene networks." _Proc Natl Acad Sci U.S.A_. 22, no 101 (June 1, 2004): 8414-9. Epub May 24, 2004. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} Kate Stafford {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assgn1_kate)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Microbial Signaling Systems: Methods and Applications (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1 MB]({{< baseurl >}}/resources/assgn2_kate)) {{< br >}}{{< br >}} Weiss, Ron, and Thomas F. Knight. "Engineered Communications for Microbial Robotics." In _DNA 2000, Lecture Notes in Computer Science_. (DNA Computing: 6th International Workshop on DNA-Based Computers, Leiden, The Netherlands, June 13-17, 2000.) Edited by A. Condon. Vol. 2054. Berlin, Germany: Springer-Verlag GmbH, 2001, pp. 1-16. ISSN: 03029743. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/pres_kate)) {{< br >}}{{< br >}} Kuhlman, B., G. Dantas, G. C. Ireton, G. Varani, B. L. Stoddard, and D. Baker. "Design of a novel globular protein fold with atomic-level accuracy." _Science_ 302, no. 5649 (November 21, 2003): 1364-8. {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+STUDENTs
+{{< thclose >}}
+{{< thopen >}}
+WRITING ASSIGNMENT 1
+{{< thclose >}}
+{{< thopen >}}
+WRITING ASSIGNMENT 2
+{{< thclose >}}
+{{< thopen >}}
+oral presentations
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Anonymous
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assgn1lh))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Bioluminescence: Science and Engineering Applications_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assgn2lh))
+
+Engebrecht, J., K. Nealson, and M. Silverman. "Bacterial bioluminescence: isolation and genetic analysis of functions from Vibrio fischeri." _Cell_ 32, no. 3 (March 1983): 773-81.
+
+Weiss, Ron, and Thomas F. Knight. "Engineered Communications for Microbial Robotics." In _DNA 2000, Lecture Notes in Computer Science_. (DNA Computing: 6th International Workshop on DNA-Based Computers, Leiden, The Netherlands, June 13-17, 2000.) Edited by A. Condon. Vol. 2054. Berlin, Germany: Springer-Verlag GmbH, 2001, pp. 1-16. ISSN: 03029743.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Yan, H., S. H. Park, G. Finkelstein, J. H. Reif, and T. H. LaBean. "DNA-templated self-assembly of protein arrays and highly conductive nanowires." _Science_ 301, no. 5641 (September 26, 2003): 1882-4.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Anonymous
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assgn1_as))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_The Development of Genetic Circuitry_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assgn2_as))
+
+Engebrecht, J., K. Nealson, and M. Silverman. "Bacterial bioluminescence: isolation and genetic analysis of functions from Vibrio fischeri." _Cell_ 32, no 3 (March 1983): 773-81.
+
+Weiss, Ron, and Thomas F. Knight. "Engineered Communications for Microbial Robotics." In _DNA 2000, Lecture Notes in Computer Science_. (DNA Computing: 6th International Workshop on DNA-Based Computers, Leiden, The Netherlands, June 13-17, 2000.) Edited by A. Condon. Vol. 2054. Berlin, Germany: Springer-Verlag GmbH, 2001, pp. 1-16. ISSN: 03029743.
+
+Yokobayashi, Y., R. Weiss R, and A. H. Arnold. "Directed Evolution of a Genetic Circuit." _Proc Natl Acad Sci U.S.A._ 99, no. 26 (December 2002): 16587-91.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Ramachandra, M., A. Rahman, A. Zou, M. Vaillancourt, J. A. Howe, D. Antelman, B. Sugarman, G. W. Demers, H. Engler, D. Johnson, and P. Shabram. "Re-engineering adenovirus regulatory pathways to enhance oncolytic specificity and efficacy." _Nat Biotechnol_ 19, no. 11 (November 2001): 1035-41.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Anonymous
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/student_a_1))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Polymerase Chain Reaction_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1 MB]({{< baseurl >}}/resources/student_a_2))
+
+Augusten, L., R. A. Bowen, and M. Rouge, Contributors. "Thermostable DNA Polymerases." In _Biotechnology and Genetic Engineering_. Colorado State University: Colorado, December 1999.
+
+Don, R. H., P. T. Cox, B. J. Wainright, K. Baker, and J. S. Mattick. "Touchdown PCR to circimvent spurious priming during gene amplification." _Nucleic Acid Research_ 19, no. 14 (April 1999): 4008.
+
+"Polymerase Chain Reaction." _Wikipedia_ (April 2005).
+
+"Taq DNA Polymerase with ThermoPol Buffer." New England Biolabs, Inc.
+
+"Touchdown PCR." _Wikipedia_ (March 2005).
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Basu, S., Y. Gerchman, C. H. Collins, F. H. Arnold, and R. Weiss. "A synthetic multicellular system for programmed pattern formation." _Nature_ 434, no. 7037 (April 28, 2005): 1130-4.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Anonymous
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/student_b_1))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Magic of Magnetism (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/student_b_2))
+
+Adleman, L. M. "Molecular computation of solutions to combinatorial problems." _Science_ 266, no. 5187 (November 11, 1994): 1021-4.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/student_b_3))
+
+Yu, L. S., J. Uknalis, and S. I. Tu. "Immunomagnetic separation methods for the isolation of Campylobacter jejuni from ground poultry meats." _J Immunol Methods_ 256, no. 1-2 (October 1, 2001): 11-8.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Mark Garcia
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assgn1markgarcia))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assgn2markgarcia))
+
+Weiss, Ron, and Thomas F. Knight. "Engineered Communications for Microbial Robotics." In _DNA 2000, Lecture Notes in Computer Science._ (DNA Computing: 6th International Workshop on DNA-Based Computers, Leiden, The Netherlands, June 13-17, 2000.) Edited by A. Condon. Vol. 2054. Berlin, Germany: Springer-Verlag GmbH, 2001, pp. 1-16. ISSN: 03029743.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/presmarkgarcia))
+
+Rothemund, P. W. "Using lateral capillary forces to compute by self-assembly." _Proc Natl Acad Sci U.S.A._ 3, no. 97 (February 1, 2000): 984-9.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Erin Mathewson
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assgn1_erin))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Formation of DNA Nanotubes to Produce Nanowires_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assgn2_erin))
+
+Liu, D., S. H. Park, J. H. Reif, and T. H. LaBean. "DNA nanotubes self-assembled from triple-crossover tiles as templates for conductive nanowires." _Proc Natl Acad Sci U.S.A_. 101, no 6 (January 6, 2004): 717-722.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/presemathewson))
+
+Kobayashi, H., M. Kaern, M. Araki, K. Chung, T. S. Gardner, C. R. Cantor, and J. J. Collins. "Programmable cells: interfacing natural and engineered gene networks." _Proc Natl Acad Sci U.S.A_. 22, no 101 (June 1, 2004): 8414-9. Epub May 24, 2004.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Kate Stafford
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assgn1_kate))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Microbial Signaling Systems: Methods and Applications (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1 MB]({{< baseurl >}}/resources/assgn2_kate))
+
+Weiss, Ron, and Thomas F. Knight. "Engineered Communications for Microbial Robotics." In _DNA 2000, Lecture Notes in Computer Science_. (DNA Computing: 6th International Workshop on DNA-Based Computers, Leiden, The Netherlands, June 13-17, 2000.) Edited by A. Condon. Vol. 2054. Berlin, Germany: Springer-Verlag GmbH, 2001, pp. 1-16. ISSN: 03029743.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/pres_kate))
+
+Kuhlman, B., G. Dantas, G. C. Ireton, G. Varani, B. L. Stoddard, and D. Baker. "Design of a novel globular protein fold with atomic-level accuracy." _Science_ 302, no. 5649 (November 21, 2003): 1364-8.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
