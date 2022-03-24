@@ -11,7 +11,7 @@ About a third of the way into the course you will have to write an abstract to a
 
 About two thirds of the way into the course you will have to turn in a short (3-4 page) paper describing somewhat in detail one of the techniques or methods we encountered in the class readings. Include a short section discussing the differences in the uses and usefulness of the technique for scientific and engineering applications. The first draft of the paper will be due two weeks before the assignment due date. I will edit that draft to give you a chance to improve it for the final submission.
 
-Example of published paper with a removed abstract section. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.0 MB]({{< baseurl >}}/resources/writinassignmnt))
+Example of published paper with a removed abstract section. ([PDF - 2.0 MB]({{< baseurl >}}/resources/writinassignmnt))
 
 Oral Presentations
 ------------------
@@ -55,14 +55,14 @@ Anonymous
 {{< tdopen >}}
 
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assgn1lh))
+([PDF]({{< baseurl >}}/resources/assgn1lh))
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-_Bioluminescence: Science and Engineering Applications_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assgn2lh))
+_Bioluminescence: Science and Engineering Applications_ ([PDF]({{< baseurl >}}/resources/assgn2lh))
 
 Engebrecht, J., K. Nealson, and M. Silverman. "Bacterial bioluminescence: isolation and genetic analysis of functions from Vibrio fischeri." _Cell_ 32, no. 3 (March 1983): 773-81.
 
@@ -90,14 +90,14 @@ Anonymous
 {{< tdopen >}}
 
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assgn1_as))
+([PDF]({{< baseurl >}}/resources/assgn1_as))
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-_The Development of Genetic Circuitry_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assgn2_as))
+_The Development of Genetic Circuitry_ ([PDF]({{< baseurl >}}/resources/assgn2_as))
 
 Engebrecht, J., K. Nealson, and M. Silverman. "Bacterial bioluminescence: isolation and genetic analysis of functions from Vibrio fischeri." _Cell_ 32, no 3 (March 1983): 773-81.
 
@@ -127,14 +127,14 @@ Anonymous
 {{< tdopen >}}
 
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/student_a_1))
+([PDF]({{< baseurl >}}/resources/student_a_1))
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-_Polymerase Chain Reaction_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1 MB]({{< baseurl >}}/resources/student_a_2))
+_Polymerase Chain Reaction_ ([PDF - 1.1 MB]({{< baseurl >}}/resources/student_a_2))
 
 Augusten, L., R. A. Bowen, and M. Rouge, Contributors. "Thermostable DNA Polymerases." In _Biotechnology and Genetic Engineering_. Colorado State University: Colorado, December 1999.
 
@@ -168,14 +168,14 @@ Anonymous
 {{< tdopen >}}
 
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/student_b_1))
+([PDF]({{< baseurl >}}/resources/student_b_1))
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-The Magic of Magnetism (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/student_b_2))
+The Magic of Magnetism ([PDF]({{< baseurl >}}/resources/student_b_2))
 
 Adleman, L. M. "Molecular computation of solutions to combinatorial problems." _Science_ 266, no. 5187 (November 11, 1994): 1021-4.
 
@@ -203,14 +203,14 @@ Mark Garcia
 {{< tdopen >}}
 
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assgn1markgarcia))
+([PDF]({{< baseurl >}}/resources/assgn1markgarcia))
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assgn2markgarcia))
+([PDF]({{< baseurl >}}/resources/assgn2markgarcia))
 
 Weiss, Ron, and Thomas F. Knight. "Engineered Communications for Microbial Robotics." In _DNA 2000, Lecture Notes in Computer Science._ (DNA Computing: 6th International Workshop on DNA-Based Computers, Leiden, The Netherlands, June 13-17, 2000.) Edited by A. Condon. Vol. 2054. Berlin, Germany: Springer-Verlag GmbH, 2001, pp. 1-16. ISSN: 03029743.
 
@@ -238,14 +238,14 @@ Erin Mathewson
 {{< tdopen >}}
 
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assgn1_erin))
+([PDF]({{< baseurl >}}/resources/assgn1_erin))
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-_Formation of DNA Nanotubes to Produce Nanowires_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assgn2_erin))
+_Formation of DNA Nanotubes to Produce Nanowires_ ([PDF]({{< baseurl >}}/resources/assgn2_erin))
 
 Liu, D., S. H. Park, J. H. Reif, and T. H. LaBean. "DNA nanotubes self-assembled from triple-crossover tiles as templates for conductive nanowires." _Proc Natl Acad Sci U.S.A_. 101, no 6 (January 6, 2004): 717-722.
 
@@ -273,14 +273,14 @@ Kate Stafford
 {{< tdopen >}}
 
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assgn1_kate))
+([PDF]({{< baseurl >}}/resources/assgn1_kate))
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Microbial Signaling Systems: Methods and Applications (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1 MB]({{< baseurl >}}/resources/assgn2_kate))
+Microbial Signaling Systems: Methods and Applications ([PDF - 1.1 MB]({{< baseurl >}}/resources/assgn2_kate))
 
 Weiss, Ron, and Thomas F. Knight. "Engineered Communications for Microbial Robotics." In _DNA 2000, Lecture Notes in Computer Science_. (DNA Computing: 6th International Workshop on DNA-Based Computers, Leiden, The Netherlands, June 13-17, 2000.) Edited by A. Condon. Vol. 2054. Berlin, Germany: Springer-Verlag GmbH, 2001, pp. 1-16. ISSN: 03029743.
 
