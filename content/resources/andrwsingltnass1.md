@@ -4,6 +4,7 @@ description: This resource includes a draft of the assignment created by the stu
   on DNA molecules.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/7-349-biological-computing-at-the-crossroads-of-engineering-and-science-spring-2005/ce6f87ba38f50c2001858a9412ecdc86_andrwsingltnass1.pdf
 file_type: application/pdf
+parent_uid: d94c4372-d364-6d70-dec3-dbddaf026d53
 resourcetype: Document
 title: andrwsingltnass1.pdf
 uid: ce6f87ba-38f5-0c20-0185-8a9412ecdc86

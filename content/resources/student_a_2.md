@@ -4,6 +4,7 @@ description: This resource provides information about the polymerase chain react
   methods, applications, limitations and references.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/7-349-biological-computing-at-the-crossroads-of-engineering-and-science-spring-2005/bd1c8ca8c1c79e7b4742a3d4f8b482c1_student_a_2.pdf
 file_type: application/pdf
+parent_uid: d94c4372-d364-6d70-dec3-dbddaf026d53
 resourcetype: Document
 title: student_a_2.pdf
 uid: bd1c8ca8-c1c7-9e7b-4742-a3d4f8b482c1

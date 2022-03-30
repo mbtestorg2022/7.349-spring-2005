@@ -4,6 +4,7 @@ description: This resource includes detailed information on the assignment submi
   by the student.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/7-349-biological-computing-at-the-crossroads-of-engineering-and-science-spring-2005/e8d1203e6901bc8c2eb32eae5f06142e_assgn2lh.pdf
 file_type: application/pdf
+parent_uid: d94c4372-d364-6d70-dec3-dbddaf026d53
 resourcetype: Document
 title: assgn2lh.pdf
 uid: e8d1203e-6901-bc8c-2eb3-2eae5f06142e

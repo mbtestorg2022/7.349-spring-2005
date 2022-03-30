@@ -4,6 +4,7 @@ description: This resource includes the drafts of the assignmets submitted by th
   student.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/7-349-biological-computing-at-the-crossroads-of-engineering-and-science-spring-2005/e6f939ca0f959f8a744aa8bdb3c233e2_erinass1.pdf
 file_type: application/pdf
+parent_uid: d94c4372-d364-6d70-dec3-dbddaf026d53
 resourcetype: Document
 title: erinass1.pdf
 uid: e6f939ca-0f95-9f8a-744a-a8bdb3c233e2
